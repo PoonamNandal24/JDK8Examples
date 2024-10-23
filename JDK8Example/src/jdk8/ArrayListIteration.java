@@ -14,13 +14,13 @@ public class ArrayListIteration {
 		tvSeries.add("Prison Break");
 		
 		//1. Using For each and Lambda expression
-		System.out.println("--------------Print using For Each  with lambda in java 8------------");
+		System.out.println("----Hello----------Print using For Each  with lambda in java 8------------");
 		
 		tvSeries.forEach(shows ->{
 			System.out.println(shows);
 		});
 		
-		System.out.println("----------Print using Iterator------------");
+		System.out.println("---Hello-------Print using Iterator------------");
 		
 		//2. Iterator
 		
